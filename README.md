@@ -1,9 +1,3 @@
-# AdventureWorks-Analytics-Tableau
-Interactive Tableau dashboard analyzing Adventure Works sales data - customer insights, product performance, and revenue trends
-
-
-
-
 # 📊 Adventure Works Analytics | Tableau Dashboard
 
 This project presents a complete **Sales & Profit Analysis** for the fictional Adventure Works company using **Tableau**.  
