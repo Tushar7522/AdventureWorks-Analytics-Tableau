@@ -131,6 +131,20 @@ It enables stakeholders to:
 - Make informed decisions using key KPIs  
 
 ---
+## 📥 Dataset Files (Download)
+
+Below are all the datasets used in this Tableau Analytics project:
+
+- [DimCustomer.xlsx](Dataset/DimCustomer.xlsx)
+- [DimDate.xlsx](Dataset/DimDate.xlsx)
+- [DimProduct.xlsx](Dataset/DimProduct.xlsx)
+- [DimProductCategory.xlsx](Dataset/DimProductCategory.xlsx)
+- [DimProductSubCategory.xlsx](Dataset/DimProductSubCategory.xlsx)
+- [DimSalesTerritory.xlsx](Dataset/DimSalesTerritory.xlsx)
+- [FactInternetSales.xlsx](Dataset/FactInternetSales.xlsx)
+- [Fact_Internet_Sales_New.xlsx](Dataset/Fact_Internet_Sales_New.xlsx)
+
+
 
 ## 🔗 Connect With Me  
 **LinkedIn:** https://www.linkedin.com/in/tushar-chavan-752  
