@@ -123,8 +123,9 @@ Insights help with targeted marketing strategies.
 ---
 
 ## 📸 Dashboard Preview  
-*(<img width="1851" height="1024" alt="Screenshot 2025-08-07 132722" src="https://github.com/user-attachments/assets/04627efc-793b-4314-81d9-51d6328fffdf" />
-)*  
+<img width="1649" height="927" alt="Screenshot 2025-07-29 234746" src="https://github.com/user-attachments/assets/ba837fc9-0c42-4642-8a50-7cd43b0bc0c3" />
+
+ 
 
 
 
