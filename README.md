@@ -8,3 +8,12 @@ Interactive Tableau dashboard analyzing Adventure Works sales data - customer in
 [![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-1e3a8a?style=for-the-badge&logo=tableau&logoColor=60a5fa)](https://public.tableau.com/app/profile/tushar.chavan3177/viz/TusharTableauProject/DASHBOARD)
 
 [![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-1f2937?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=111827)](https://public.tableau.com/app/profile/tushar.chavan3177/viz/TusharTableauProject/DASHBOARD)
+
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-0f766e?style=for-the-badge&logo=tableau&logoColor=5eead4&labelColor=134e4a)](https://public.tableau.com/app/profile/tushar.chavan3177/viz/TusharTableauProject/DASHBOARD)
+
+
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-1e40af?style=for-the-badge&logo=tableau&logoColor=60a5fa&labelColor=1e3a8a)](https://public.tableau.com/app/profile/tushar.chavan3177/viz/TusharTableauProject/DASHBOARD)
+
+
+
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-6d28d9?style=for-the-badge&logo=tableau&logoColor=c4b5fd&labelColor=4c1d95)](https://public.tableau.com/app/profile/tushar.chavan3177/viz/TusharTableauProject/DASHBOARD)
