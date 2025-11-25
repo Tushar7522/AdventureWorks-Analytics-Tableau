@@ -109,7 +109,11 @@ Insights help with targeted marketing strategies.
    - Built visuals and created parameters & filters (Country, Year, Gender, etc.)
 
 ---
+## 📥 Dataset Files (Download)
 
+Below are all the datasets used in this Tableau Analytics project:
+
+- https://github.com/Tushar7522/AdventureWorks-Analytics-Tableau/blob/main/Dataset.zip
 
 ---
 
@@ -131,18 +135,7 @@ It enables stakeholders to:
 - Make informed decisions using key KPIs  
 
 ---
-## 📥 Dataset Files (Download)
 
-Below are all the datasets used in this Tableau Analytics project:
-
-- [DimCustomer.xlsx](Dataset/DimCustomer.xlsx)
-- [DimDate.xlsx](Dataset/DimDate.xlsx)
-- [DimProduct.xlsx](Dataset/DimProduct.xlsx)
-- [DimProductCategory.xlsx](Dataset/DimProductCategory.xlsx)
-- [DimProductSubCategory.xlsx](Dataset/DimProductSubCategory.xlsx)
-- [DimSalesTerritory.xlsx](Dataset/DimSalesTerritory.xlsx)
-- [FactInternetSales.xlsx](Dataset/FactInternetSales.xlsx)
-- [Fact_Internet_Sales_New.xlsx](Dataset/Fact_Internet_Sales_New.xlsx)
 
 
 
