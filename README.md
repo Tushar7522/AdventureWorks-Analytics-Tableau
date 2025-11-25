@@ -2,7 +2,6 @@
 Interactive Tableau dashboard analyzing Adventure Works sales data - customer insights, product performance, and revenue trends
 
 
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=111827)](https://public.tableau.com/app/profile/tushar.chavan3177/viz/TusharTableauProject/DASHBOARD)
 
 
 # 📊 Adventure Works Analytics | Tableau Dashboard
@@ -27,8 +26,10 @@ The goal of this project is to analyze Adventure Works' global sales data and id
 - Year-on-year growth  
 
 ## 📸 Dashboard Preview
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=111827)](https://public.tableau.com/app/profile/tushar.chavan3177/viz/TusharTableauProject/DASHBOARD)
 
-![Adventure Works Dashboard](path/to/dashboard-screenshot.png)
+
+![Adventure Works Dashboard]()
 
 ---
 
@@ -117,6 +118,13 @@ Insights help with targeted marketing strategies.
 ---
 
 ## 📂 Folder Structure (Recommended)
+
+
+---
+
+## 📸 Dashboard Preview  
+*()*  
+
 
 
 
