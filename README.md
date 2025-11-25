@@ -117,8 +117,6 @@ Insights help with targeted marketing strategies.
 
 ---
 
-## 📂 Folder Structure (Recommended)
-
 
 ---
 
@@ -126,6 +124,25 @@ Insights help with targeted marketing strategies.
 <img width="1649" height="927" alt="Screenshot 2025-07-29 234746" src="https://github.com/user-attachments/assets/ba837fc9-0c42-4642-8a50-7cd43b0bc0c3" />
 
  
+---
+
+## 💡 Conclusion
+
+This dashboard provides a complete overview of Adventure Works' sales performance.  
+It enables stakeholders to:
+
+- Identify profitable regions  
+- Track high-selling product categories  
+- Understand month/quarter-wise revenue cycles  
+- Compare production cost vs sales  
+- Make informed decisions using key KPIs  
+
+---
+
+## 🔗 Connect With Me  
+**LinkedIn:** https://www.linkedin.com/in/tushar-chavan-752  
+
+
 
 
 
